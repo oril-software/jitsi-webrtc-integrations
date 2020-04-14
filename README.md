@@ -84,3 +84,6 @@ If you find (or simply suspect) a security issue in any of the Jitsi projects, p
 ## Acknowledgements
 
 Jitsi Meet started out as a sample conferencing application using Jitsi Videobridge. It was originally developed by ESTOS' developer Philipp Hancke who then contributed it to the community where development continues with joint forces!
+
+## TEST SCREENSHOTS
+![Screenshot from test meeting](meet-test.png)
